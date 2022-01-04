@@ -4,7 +4,9 @@
 #'
 #' @export
 #' @examples
+#' \dontrun{
 #' unhcr_css_files()
+#' }
 
 unhcr_css_files <- function() {
   css_dir <- system.file("resources/css", package = "unhcrdesign")

@@ -10,5 +10,7 @@ unhcr_css_files()
 Print a list of available CSS files included in unhcrdesign
 }
 \examples{
+\dontrun{
 unhcr_css_files()
+}
 }
