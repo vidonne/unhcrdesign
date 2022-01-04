@@ -14,7 +14,7 @@ use_unhcr_css <- function(css_file) {
       usethis::ui_warn("{usethis::ui_path(paste0(file, '.css'))}
                        not available")
       usethis::ui_info('For a complete list of css files, run
-                       {usethis::ui_code("mayo_css_files()")}')
+                       {usethis::ui_code("unhcr_css_files()")}')
     } else {
       files <- c(files, loc)
     }
