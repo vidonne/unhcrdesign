@@ -20,3 +20,5 @@ Imports:
     usethis
 URL: https://github.com/vidonne/unhcrdesign
 BugReports: https://github.com/vidonne/unhcrdesign/issues
+Depends: 
+    R (>= 2.10)
