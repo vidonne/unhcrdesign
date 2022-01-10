@@ -2,6 +2,8 @@
 
 export(unhcr_css_files)
 export(unhcr_scss_files)
+export(use_unhcr_bslib)
 export(use_unhcr_css)
 export(use_unhcr_logo)
 export(use_unhcr_scss)
+importFrom(bslib,font_google)

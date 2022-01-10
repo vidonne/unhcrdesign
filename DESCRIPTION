@@ -17,7 +17,8 @@ RoxygenNote: 7.1.2
 Imports: 
     knitr,
     sass,
-    usethis
+    usethis,
+    bslib
 URL: https://github.com/vidonne/unhcrdesign
 BugReports: https://github.com/vidonne/unhcrdesign/issues
 Depends: 
